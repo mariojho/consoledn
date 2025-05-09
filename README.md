@@ -1,2 +1,2 @@
 # consoledn
-Dotnet console proyect
+Dotnet console project
